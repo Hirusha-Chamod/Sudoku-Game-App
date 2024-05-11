@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SudoCraft</string>
+    <string name="easy_mode_description">Accessible for newcomers, offering a gentle Sudoku experience.</string>
+    <string name="hard_mode_description">For seasoned players seeking a formidable Sudoku challenge.</string>
+    <string name="instructions_part1">Sudoku is a captivating puzzle game played on a 9x9 grid. The objective is simple: fill each row, column, and 3x3 subgrid with numbers from 1 to 9 without repeating any digit. The game starts with some cells pre-filled with numbers, offering clues to get you started.</string>
+    <string name="instructions_part2">To play, tap on an empty cell to select it, then enter a number from 1 to 9. Make sure the number doesn\'t violate Sudoku rules by repeating in the same row, column, or subgrid. Repeat this process, filling in empty cells strategically until the entire grid is complete. Sudoku is not just a game; it\'s a mental workout that challenges your logic and problem-solving skills while providing endless entertainment.</string>
+
+</resources>
